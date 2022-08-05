@@ -6,6 +6,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@leozarose](https://medium.com/@leozarose)
 
+- 👨‍💻 A couple projects are available at [https://drive.google.com/file/d/16B1pNLIsCR1YKOZm5Nt9zT6wwkxBmcqW/view?usp=sharing](https://drive.google.com/file/d/16B1pNLIsCR1YKOZm5Nt9zT6wwkxBmcqW/view?usp=sharing)
+
 - ⚡ Fun fact **some of my friends call me lele (aka catfish in Indonesian) hence the name catfishona**
 
 <h3 align="left">Connect with me:</h3>
