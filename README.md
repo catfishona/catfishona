@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **React, three.js, and Flutter**
 
-- 📝 I regularly write articles on [https://medium.com/@leozarose](https://medium.com/@leozarose)
+- 📝 I regularly write articles on my [medium](https://medium.com/@leozarose)
 
-- 👨‍💻 A couple projects are available at [https://drive.google.com/file/d/16B1pNLIsCR1YKOZm5Nt9zT6wwkxBmcqW/view?usp=sharing](https://drive.google.com/file/d/16B1pNLIsCR1YKOZm5Nt9zT6wwkxBmcqW/view?usp=sharing)
+- 👨‍💻 A couple projects are available [here](https://drive.google.com/file/d/16B1pNLIsCR1YKOZm5Nt9zT6wwkxBmcqW/view?usp=sharing)
 
 - ⚡ Fun fact **some of my friends call me lele (aka catfish in Indonesian) hence the name catfishona**
 
