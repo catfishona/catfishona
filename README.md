@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leona</h1>
-<h3 align="center">Passionate about creating and collaborating on technological innovations that aid social/environmental issues!</h3>
+<h3 align="center">Passionate about creating and collaborating on technological innovations that aid social or environmental issues</h3>
 
 
 - 🌱 I’m currently learning **React, three.js, and Flutter**
