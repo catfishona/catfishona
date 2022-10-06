@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about creating and collaborating on technological innovations that aid social or environmental issues</h3>
 
 
-- 🌱 I’m currently learning **React, three.js, and Flutter**
+- 🌱 I’m interested in **front-end engineering**
 
 - 📝 I regularly write articles on my [medium](https://medium.com/@leozarose)
 
