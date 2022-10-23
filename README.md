@@ -1,5 +1,6 @@
-<h2>Hi 👋, I'm Leona</h2>
-<h4><i>Passionate in creating and collaborating on technological innovations that aid social or environmental issues</i></h4>
+<h2 align="center">Hi 👋, I'm Leona</h2>
+<h3 align="center">Passionate in creating & collaborating on technological innovations that aid social / environmental issues</h3>
+<br/>
 
   - 🌱 Currently learning **React, Typescript, and three.js**
 
